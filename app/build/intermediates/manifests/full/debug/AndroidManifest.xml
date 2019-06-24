@@ -27,6 +27,7 @@
         <activity android:name="com.droidrank.sample.LoginActivity" />
         <activity android:name="com.droidrank.sample.retrofit.Retro_Demo" />
         <activity android:name="com.droidrank.sample.volley.Volley_Demo" />
+        <!-- <activity android:name=".MainActivity"/> -->
         <activity android:name="com.droidrank.sample.sqlite_demo.Sqlite_MainActivity" />
         <activity android:name="com.droidrank.sample.sqlite_demo.Sqlite_EmployeeActivity" />
 

@@ -21,6 +21,7 @@
         <activity android:name=".LoginActivity"/>
         <activity android:name=".retrofit.Retro_Demo"/>
         <activity android:name=".volley.Volley_Demo"/>
+        <!--<activity android:name=".MainActivity"/>-->
         <activity android:name=".sqlite_demo.Sqlite_MainActivity"/>
         <activity android:name=".sqlite_demo.Sqlite_EmployeeActivity"/>
 

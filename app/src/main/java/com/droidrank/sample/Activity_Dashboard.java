@@ -22,6 +22,7 @@ import android.webkit.WebViewClient;
 import android.widget.Toast;
 
 import com.droidrank.sample.broadcast.MYBroadcast;
+import com.droidrank.sample.volley.Volley_Demo;
 
 import java.sql.Time;
 import java.util.Calendar;
@@ -58,6 +59,8 @@ public class Activity_Dashboard extends AppCompatActivity {
                    handler.post(new Runnable() {
                        public void run() {
                            try {
+                               Intent i = new Intent(Activity_Dashboard.this, Volley_Demo.class);
+                               startActivity(i);
                                createNotification();
                            } catch (Exception e) {
                            }

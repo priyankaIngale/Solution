@@ -108,6 +108,10 @@
         "source": "D:\\Solution\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "D:\\Solution\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volley.xml",
+        "source": "D:\\Solution\\app\\src\\main\\res\\layout\\activity_volley.xml"
+    },
+    {
         "merged": "D:\\Solution\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "D:\\Solution\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },

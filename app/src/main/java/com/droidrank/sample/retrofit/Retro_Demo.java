@@ -56,6 +56,4 @@ public class Retro_Demo extends AppCompatActivity {
         });
 
     }
-
-
 }
